@@ -492,7 +492,7 @@ window.addEventListener("load", function () {
     "Апр",
     "Май",
     "Июн",
-    "Июн",
+    "Июл",
     "Авг",
     "Сен",
     "Окт",
