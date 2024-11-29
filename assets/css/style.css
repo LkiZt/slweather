@@ -1,6 +1,3 @@
-.leaflet-control .leaflet-attribution-flag {
-    display: none !important;
-}
 :root {
     --primary: #B5A1E5; 
     --on-primary: #100E17; 
